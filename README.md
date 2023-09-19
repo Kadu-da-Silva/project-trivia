@@ -1,6 +1,6 @@
 # Projeto Trivia 🖲️
 
-Mais um projeto da Trybe em grupo desenvolvido por mim e por essa turma maravilhosa: 🍾
+Mais um projeto da Trybe em grupo, desenvolvido por mim e por essa turma maravilhosa: 🍾
 * [Guilherme Mansur](https://github.com/alanguilhermeM)
 * [Anderson de Queiroz](https://github.com/andersonqf)
 * [Raissa Oliveira](https://github.com/raissaGDOliveira)
